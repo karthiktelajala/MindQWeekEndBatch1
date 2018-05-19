@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49" started-at="2018-05-06T07:11:07Z" finished-at="2018-05-06T07:11:07Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="TestNGDemo1.testCase1()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="testCase1" class="testNGPackage.TestNGDemo1"/>
+        <method signature="TestNGDemo1.testCase3()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="testCase3" class="testNGPackage.TestNGDemo1"/>
+        <method signature="TestNGDemo2.testCase5()[pri:3, instance:testNGPackage.TestNGDemo2@4b9e13df]" name="testCase5" class="testNGPackage.TestNGDemo2"/>
+        <method signature="TestNGDemo2.testCase6()[pri:1, instance:testNGPackage.TestNGDemo2@4b9e13df]" name="testCase6" class="testNGPackage.TestNGDemo2"/>
+      </group> <!-- Sanity -->
+      <group name="Reg">
+        <method signature="TestNGDemo1.testCase1()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="testCase1" class="testNGPackage.TestNGDemo1"/>
+        <method signature="TestNGDemo1.testCase2()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="testCase2" class="testNGPackage.TestNGDemo1"/>
+        <method signature="TestNGDemo2.testCase4()[pri:2, instance:testNGPackage.TestNGDemo2@4b9e13df]" name="testCase4" class="testNGPackage.TestNGDemo2"/>
+        <method signature="TestNGDemo2.testCase5()[pri:3, instance:testNGPackage.TestNGDemo2@4b9e13df]" name="testCase5" class="testNGPackage.TestNGDemo2"/>
+      </group> <!-- Reg -->
+    </groups>
+    <test name="Test" duration-ms="49" started-at="2018-05-06T07:11:07Z" finished-at="2018-05-06T07:11:07Z">
+      <class name="testNGPackage.TestNGDemo1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="beforeSuite" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="testCase1" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="testCase2" duration-ms="16" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="testCase3" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testNGPackage.TestNGDemo1@cb5822]" name="afterSuite" is-config="true" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testNGPackage.TestNGDemo1 -->
+      <class name="testNGPackage.TestNGDemo2">
+        <test-method status="PASS" signature="testCase6()[pri:1, instance:testNGPackage.TestNGDemo2@4b9e13df]" name="testCase6" duration-ms="15" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+        <test-method status="PASS" signature="testCase5()[pri:3, instance:testNGPackage.TestNGDemo2@4b9e13df]" name="testCase5" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+        <test-method status="PASS" signature="testCase4()[pri:2, instance:testNGPackage.TestNGDemo2@4b9e13df]" name="testCase4" duration-ms="0" started-at="2018-05-06T12:41:07Z" finished-at="2018-05-06T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+      </class> <!-- testNGPackage.TestNGDemo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
